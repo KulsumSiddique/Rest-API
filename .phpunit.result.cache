@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":253:{a:2:{s:7:"defects";a:1:{s:16:"ApiTest::testapi";i:3;}s:5:"times";a:5:{s:16:"ApiTest::testapi";d:0.078;s:19:"ApiTest::testApiGet";d:0.675;s:27:"ApiTest::testApiGetKeyValue";d:0.071;s:20:"ApiTest::testApiPost";d:0.071;s:19:"ApiTest::testApiPut";d:0.014;}}}
